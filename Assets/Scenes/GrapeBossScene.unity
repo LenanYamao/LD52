@@ -386,7 +386,7 @@ MonoBehaviour:
   isPlayer: 0
   levelName: Win
   audioSource: {fileID: 874777524}
-  sfxHit: {fileID: 8300000, guid: bd0011ab548dcd547a74efc58eb9bee0, type: 3}
+  sfxHit: {fileID: 0}
   playerHitFx: {fileID: 0}
   enemyHitFx: {fileID: 0}
   fxPoint: {fileID: 102386746}
@@ -2157,11 +2157,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 4f7c0763ed6006241a8821e4729dd538, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.898
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -6139,7 +6139,7 @@ MonoBehaviour:
   isPlayer: 1
   levelName: 
   audioSource: {fileID: 1453393267}
-  sfxHit: {fileID: 8300000, guid: bd0011ab548dcd547a74efc58eb9bee0, type: 3}
+  sfxHit: {fileID: 8300000, guid: e2e41cb1ac60fe442b38f09f0bbbae59, type: 3}
   playerHitFx: {fileID: 0}
   enemyHitFx: {fileID: 0}
   fxPoint: {fileID: 2016095508}
